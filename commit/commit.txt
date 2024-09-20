@@ -1,0 +1,1 @@
+La commande git commit enregistre ("committe") les changements ajoutés dans l'historique du projet dans un dépôt Git local. Autrement dit, elle prend un instantané de l'état actuel des fichiers suivis dans l'index (staging area) et crée un nouveau commit dans l'historique, accompagné d'un message descriptif.
